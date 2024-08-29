@@ -4,5 +4,7 @@
 >I don't have a lot of coding skills but I enjoy learning how to code, and I have a bit of experience with game design coding.
 >My hobbies are video games and animation
 >
-[Linkdin](www.linkedin.com/in/min-gao-2a4445304)
+>[Linkdin](www.linkedin.com/in/min-gao-2a4445304)
+
+
 ![alt text](Homunculus.webp)
